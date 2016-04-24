@@ -1,0 +1,5 @@
+<?
+
+echo "<div class='photo-icon'><img src='/resources/images/icons/i_photo.png'></div>";
+
+?>

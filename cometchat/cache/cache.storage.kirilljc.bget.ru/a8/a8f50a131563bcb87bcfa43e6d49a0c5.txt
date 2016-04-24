@@ -1,0 +1,1 @@
+a:4:{s:5:"value";s:135:"a:1:{s:2:"_7";a:4:{s:2:"id";i:7;s:1:"n";s:10:"Дарья";s:1:"a";s:43:"/cometchat/../resources/images/noavatar.png";s:1:"b";s:1:"0";}}";s:10:"write_time";s:10:"1454950520";s:10:"expired_in";i:30;s:12:"expired_time";i:1454950550;}

@@ -45,3 +45,55 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+# IDEA
+.idea/*
+# BITRIX
+/bitrix/activities/*
+/bitrix/admin/*
+/bitrix/cache/*
+/bitrix/components/*
+/bitrix/css/*
+/bitrix/fonts/*
+/bitrix/gadgets/*
+/bitrix/image_uploader/*
+/bitrix/images/*
+/bitrix/js/*
+/bitrix/managed_cache/*
+/bitrix/modules/*
+/bitrix/otp/*
+/bitrix/panel/*
+/bitrix/php_interface/*
+/bitrix/sounds/*
+/bitrix/stack_cache/*
+/bitrix/template/*
+/bitrix/themes/*
+/bitrix/tmp/*
+/bitrix/tools/*
+/bitrix/update/*
+/bitrix/wizards/*
+/bitrix/templates/.default/*
+/bitrix/templates/learning/*
+/bitrix/templates/mail_user/*
+/upload/*
+/resources/plugins/*
+/resources/dist/*
+/resources/build/*
+*.log
+.access.php
+.htaccess
+.section.php
+404.php
+auth/index.php
+bitrix/.settings.php
+bitrix/activity_limit.php
+bitrix/click.php
+bitrix/coupon_activation.php
+bitrix/footer.php
+bitrix/header.php
+bitrix/index.php
+bitrix/license_key.php
+bitrix/p3p.xml
+bitrix/redirect.php
+bitrix/rk.php
+bitrix/rss.php
+bitrix/spread.php
