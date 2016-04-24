@@ -46,7 +46,10 @@ $APPLICATION->SetTitle("");
     <body>
     <div id="map"></div>
     <script type="text/javascript">
-
+        <?
+        global $USER;
+        $uid = $USER->GetID();
+        ?>
         var map;
         function initMap() {
             map = new google.maps.Map(document.getElementById('map'), {
